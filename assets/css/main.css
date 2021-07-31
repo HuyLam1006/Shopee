@@ -72,6 +72,7 @@
 
 /* Header QR Code*/
 .header__qr{
+    z-index: 100;
     margin-left: 15px;
     display: none;
     position: absolute;
